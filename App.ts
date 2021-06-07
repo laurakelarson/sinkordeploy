@@ -19,6 +19,8 @@ import { CommentModel } from "./model/CommentModel";
 import { VoteModel } from "./model/VoteModel";
 
 // Creates and configures an ExpressJS web server.
+
+//this is a test
 class App {
   // ref to Express instance
   public expressApp: express.Application;
